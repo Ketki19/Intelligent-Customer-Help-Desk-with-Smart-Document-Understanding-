@@ -1,4 +1,4 @@
-# llSPS-INT-907-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
+# Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 Intelligent Customer Help Desk with Smart Document Understanding
 
 ## Project Description
@@ -18,3 +18,10 @@ This action will further pass onto to Watson Discovery and return with appropria
 Project demonstration video link: https://youtu.be/-_JDEFqL2kY
 
 UI Link for project: https://node-red-jtsdv.eu-gb.mybluemix.net/ui/
+
+## Technology Stack
+* IBM Cloud Platform
+* IBM Watson Assistant
+* IBM Watson Discovery
+* Node Red
+
