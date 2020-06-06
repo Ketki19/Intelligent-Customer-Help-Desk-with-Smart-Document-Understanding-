@@ -23,5 +23,6 @@ UI Link for project: https://node-red-jtsdv.eu-gb.mybluemix.net/ui/
 * IBM Cloud Platform
 * IBM Watson Assistant
 * IBM Watson Discovery
+* IBM Cloud Functions
 * Node Red
 
